@@ -24,17 +24,17 @@ main {
 .details section {
     flex-grow: 1;
     flex-basis: 0;
-    background: #eee;
+    background: #E9EAEC;
     border-radius: 20px;
     margin-top: 25px;
 }
 
 .details section p {
-    margin: 20px;
+    margin: 25px;
 }
 
 .details section h2 {
-    margin: 20px;
+    margin: 25px;
 }
 
 .details section.with-code {
