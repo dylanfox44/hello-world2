@@ -4,5 +4,11 @@ a.active {
 }
 
 body { 
-    background: #aaa
+    background: #fff;
+    font-family: Helvetica, sans-serif;
+
+}
+
+img {
+    width: 100%;
 }
